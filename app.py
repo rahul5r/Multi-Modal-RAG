@@ -22,6 +22,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
 import tempfile
 import io
+import hashlib
 from PIL import Image
 
 logger = logging.getLogger(__name__)
@@ -76,21 +77,38 @@ def invoke_gemini_multimodal(prompt, matched_items):
     response = llm.invoke([system_msg, user_msg])
     return response.content
 
+# Function to compute file hash
+def get_file_hash(file_obj):
+    file_content = file_obj.getvalue()
+    return hashlib.md5(file_content).hexdigest()
+
 # Streamlit app
 st.title("PDF Chatbot")
 st.write("Upload a PDF to start chatting with its content!")
 
-# File uploader
+# File uploader with key to force rerun on change
 uploaded_file = st.file_uploader("Choose a PDF file", type="pdf")
 
 if uploaded_file is not None:
-    # Save uploaded file to temp
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_file:
-        tmp_file.write(uploaded_file.getvalue())
-        temp_filepath = tmp_file.name
+    file_hash = get_file_hash(uploaded_file)
+    
+    # Check if file changed or first upload
+    if 'current_file_hash' not in st.session_state or st.session_state['current_file_hash'] != file_hash:
+        # Reset session state for new PDF
+        to_clear = ['processed', 'index', 'embed_items', 'items', 'base_dir', 'messages', 'current_file_hash']
+        for key in to_clear:
+            if key in st.session_state:
+                del st.session_state[key]
+        st.session_state['current_file_hash'] = file_hash
+        st.rerun()  # Rerun to clear and start fresh
     
     if 'processed' not in st.session_state:
         with st.spinner("Processing PDF... This may take a while."):
+            # Save uploaded file to temp
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_file:
+                tmp_file.write(uploaded_file.getvalue())
+                temp_filepath = tmp_file.name
+            
             # Create temp directories
             base_dir = tempfile.mkdtemp()
             os.makedirs(os.path.join(base_dir, "images"), exist_ok=True)
@@ -262,7 +280,7 @@ if uploaded_file is not None:
         with col2:
             st.subheader("Chat with the PDF")
             
-            # Initialize chat history
+            # Initialize chat history (cleared on new PDF)
             if "messages" not in st.session_state:
                 st.session_state.messages = []
             
