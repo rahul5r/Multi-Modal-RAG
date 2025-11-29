@@ -1,0 +1,68 @@
+35.1
+38.2
+41.7
+41.6
+42.0
+43.2
+43.9
+44.6
+Financial market indicators
+Stock market index (%yoy)
+-18.3
+20.8
+1.2
+0.1
+11.4
+-8.1
+1.4
+-2.4
+Sovereign 5-year CDS (bps)
+101.3
+83.2
+35.9
+38.5
+43.8
+48.2
+45.0
+43.8
+Sovereign credit ratings
+Average
+AA-
+AA-
+AA-
+AA-
+AA-
+AA-
+AA-
+AA
+Fitch 2/
+AA-
+AA-
+AA-
+AA-
+AA-
+AA-
+AA-
+AA
+Moody's 2/
+Aa3
+Aa3
+Aa3
+Aa3
+Aa3
+Aa3
+Aa3
+Aa2
+S&P 2/
+AA-
+AA-
+AA-
+AA-
+AA-
+AA
+AA
+AA
+Sources: Bloomberg, Qatari authorities, and IMF staff.
+1/ Net of government doemstic deposits.
+2/ Long-term foreign currency ratings.
+3/ Latest data.

@@ -1,0 +1,63 @@
+0
+2
+4
+6
+-5%
+0%
+5%
+5y hist
+2024
+2025
+2026
+2027
+2028
+2029
+5+ yr term
+1-5 yr term
+<1 yr term
+Spread vs 10-yr
+US Treas.
+Implied spread,
+Laubach rule 4/
+0
+2
+4
+6
+8
+10
+12
+-7.5
+-6.5
+-5.5
+-4.5
+-3.5
+-2.5
+-1.5
+-0.5
+0.5
+1.5
+2.5
+3.5
+4.5
+5.5
+6.5
+7.5
+Distribution 3/
+3-year adjustment
+Max. 3-year adjustment
+3-year adjustment above 75th 
+percentile (2 ppts of GDP)
+percentile rank 79
+-15
+0
+15
+30
+-5
+0
+5
+10
+2013 2015 2017 2019 2021 2023 2025 2027 2029
+Baseline real growth (lhs)
+Baseline real potential growth (lhs)
+10-yr avg. real growth (lhs)
+Output gap (rhs)

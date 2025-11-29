@@ -1,0 +1,14 @@
+QATAR 
+ 
+INTERNATIONAL MONETARY FUND 
+15 
+Box 1. Estimating Fiscal Multipliers in Qatar and the GCC (concluded) 
+Box 1. Figure 1. Growth Impact of Central Government Capital Spending 1/ 
+(12-year rolling coefficient and one standard deviation plus or minus the estimate) 
+ 
+ 
+Sources: Haver and IMF staff. 
+1/ Non-hydrocarbon output is regressed on current spending (L0 and L1), capital spending (L1 and L2), global output, 
+and oil prices, all in real growth rates, on a 12-year rolling basis ending in the year indicated on the horizontal scale, 
+using annual data for Qatar spanning 1983–2023. Coefficients on the first and second lag of capital spending are 
+displayed.

@@ -1,0 +1,36 @@
+1/ Based on a subset of the banking system tracked by S&P Capital IQ.  
+ 
+ 
+ 
+ 
+ 
+1 In early 2022, the QCB adjusted reserve requirements in foreign currencies for short-term non-resident deposits 
+and the calculation of LCR and NSFR ratios using more conservative assumptions of outflow run-off rates. In late 
+2023, the QCB refined the reserve requirement to target on banks’ short-term foreign asset-liability mismatches. Also 
+see footnote 9 of the 2022 Article IV Staff Report for Qatar and paragraph 21 of the 2023 Article IV Staff Report for 
+Qatar for further discussions and assessment.  
+0
+1
+2
+3
+14
+16
+18
+20
+22
+24
+Net Interest Margin
+0
+3
+6
+9
+07
+09
+11
+13
+15
+17
+19
+21
+23
+Non-performing Loans

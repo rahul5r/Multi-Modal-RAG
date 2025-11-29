@@ -1,0 +1,18 @@
+Natural disaster
+Medium-Term Index (Index Number)
+Medium-term risk analysis
+Value
+Weight
+Contribution
+Debt fanchart index 
+1.6
+GFN finaceability index 
+5.0
+Medium-term index
+Risk signal: 5/
+Final assessment: 
+Prob. of missed crisis, 2024-2029, if stress not predicted: 9.1 pct.
+Prob. of false alarms, 2024-2029, if stress predicted: 48.9 pct.
+2/ The comparison group is emerging markets, commodity exporter, surveillance.
+3/ The signal is low risk if the DFI is below 1.13; high risk if the DFI is above 2.08; and otherwise, it is moderate risk.
+4/ The signal is low risk if the GFI is below 7.6; high risk if the DFI is above 17.9; and otherwise, it is moderate risk.

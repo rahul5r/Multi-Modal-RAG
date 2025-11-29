@@ -1,0 +1,25 @@
+24
+Oil prices (U$/barrel, inverted)
+Bank deposit to policy deposit rate spread
+(right)
+Oil Prices and Bank-Policy Deposit Rate Spread
+0
+2
+4
+6
+8
+06
+08
+10
+12
+14
+16
+18
+20
+22
+24
+Spread (ppt)
+Lending rate
+Deposit rate
+Policy Lending and Policy Deposit Rates
+(Percent)

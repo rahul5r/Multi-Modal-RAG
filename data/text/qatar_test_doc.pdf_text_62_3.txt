@@ -1,0 +1,95 @@
+Fiscal Adjustment (rhs)
+Baseline
+Multiplier=0.5
+Multiplier=1
+In percentage points of GDP
+In percent
+0
+2
+4
+6
+8
+10
+12
+-28
+-24
+-20
+-16
+-12
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+28
+Distribution 3/
+3-year reduction
+Max. 3-year reduction
+3-year debt reduction 
+above 75th percentile 
+(5.9 ppts of GDP)
+percentile rank
+75.3
+-30
+-20
+-10
+0
+10
+20
+Past 5
+years
+Primary deficit
+Real interest rate
+and relative inflation
+Real GDP growth
+Exch. rate
+depreciation
+Residual
+Change in public
+sector debt
+-40
+-20
+0
+20
+40
+Next 5
+years
+0
+2
+4
+6
+-5%
+0%
+5%
+5y hist
+2024
+2025
+2026
+2027
+2028
+2029
+5+ yr term
+1-5 yr term
+<1 yr term
+Spread vs 10-yr
+US Treas.
+Implied spread,
+Laubach rule 4/
+0
+2
+4
+6
+8
+10
+12
+-7.5
+-6.5
+-5.5
+-4.5
+-3.5
+-2.5
+-1.5

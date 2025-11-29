@@ -1,0 +1,101 @@
+(Percent of GDP)
+0
+10
+20
+30
+40
+50
+16
+18
+20
+22
+LNG
+GRE dividends
+Oil
+CIT (mainly QE)
+Other
+Central Government Revenue
+(Percent of GDP)
+19
+15
+12
+13
+13
+11
+9
+10
+11
+10
+8
+10
+11
+9
+8
+9
+11
+9
+8
+10
+11
+9
+7
+8
+0
+10
+20
+30
+40
+50
+16
+18
+20
+22
+Capital
+Other current
+Wages
+Central Government Expenditure
+(Percent of GDP)
+0
+5
+10
+15
+20
+00
+05
+10
+15
+20
+Qatar
+GCC ex-Qatar
+OECD
+EMEs
+Wage Bill, 2000-22
+(Percent of GDP)
+0
+20
+40
+60
+80
+16
+18
+20
+22
+Domestic
+External
+Central Government Debt
+(Percent of GDP)
+0
+50
+100
+150
+200
+250
+16
+18
+20
+22
+24
+Qatar
+Saudi Arabia
+Sovereign Credit Default Swap Spreads
+(Basis points)

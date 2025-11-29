@@ -1,0 +1,6 @@
+traditional methods such as statistical models and surveys, ML models allow for better 
+integration of complex, non-linear relationships between economic variables that ARIMA models 
+might miss due to their linear structure and reliance on smaller, time-series data. ML models can 
+also adapt to changing patterns in data more efficiently than statistical models. They can learn 
+from outliers, non-stationarity, and other irregularities, potentially yielding more accurate and 
+timelier GDP nowcasts.

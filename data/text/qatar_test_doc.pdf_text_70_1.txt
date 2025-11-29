@@ -1,0 +1,85 @@
+Observation 
+Date Received 
+Frequency of 
+Data6 
+Timeliness of 
+Reporting6 
+Expected 
+Frequency6,7 
+Qatar⁸ 
+Expected 
+Timeliness6,7 
+Qatar⁸ 
+Exchange Rates 
+5-Jan-25 
+5-Jan-25 
+D 
+D 
+D 
+M 
+… 
+1M 
+International Reserve Assets and Reserve Liabilities of 
+the Monetary Authorities1 
+Nov-24 
+Dec-24 
+M 
+M 
+M 
+M 
+1M 
+1M 
+Reserve/Base Money 
+Nov-24 
+Dec-24 
+M 
+2M 
+M 
+M 
+2M 
+1M 
+Broad Money 
+Nov-24 
+Dec-24 
+M 
+2M 
+M 
+M 
+1Q 
+1M 
+Central Bank Balance Sheet 
+Nov-24 
+Dec-24 
+M 
+2M 
+M 
+M 
+2M 
+1M 
+Consolidated Balance Sheet of the Banking System 
+Nov-24 
+Dec-24 
+M 
+2M 
+M 
+M 
+1Q 
+1M 
+Interest Rates2 
+5-Jan-25 
+5-Jan-25 
+D 
+D 
+M 
+M 
+… 
+1M 
+Consumer Price Index 
+Oct-24 
+Dec-24 
+M 
+2M 
+M 
+M 
+2M 
+1M

@@ -1,0 +1,7 @@
+capture the potential negative impact of excessive use of seemingly productive expenditures (Devarajan et 
+al., 1996). Our empirical strategy broadly follows Espinoza et al. (2011) and Fouejieu et al (2018) with both a 
+GCC panel estimate (and teasing out Qatar-specific effects) and a single-country time-series analysis for 
+Qatar. 
+Generally, Qatar had stronger fiscal multipliers than its GCC peers, but the gains from capital 
+expenditure weakened when capital stock became relatively high. Results from cross-GCC panel 
+regression suggest that for the GCC, the average long-run fiscal multiplier for capital expenditure (0.7) is

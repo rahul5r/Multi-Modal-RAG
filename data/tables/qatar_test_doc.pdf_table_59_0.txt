@@ -1,0 +1,5 @@
+nan | nan | nan | Proj
+60.0 | nan | 60.0 | nan
+40.0 | nan | 40.0 | nan
+20.0 | nan | 20.0 | nan
+0.0 | nan | 0.0 | nan

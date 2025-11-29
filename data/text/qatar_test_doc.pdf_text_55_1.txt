@@ -1,0 +1,32 @@
+variables) should not be interpreted in the same way as in regression analysis, which is usually based 
+on economic theories.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table III. 1. Qatar: List of Predictive Variables 
+Qatar Specific 
+Real Sector 
+Qatar: Consumer Price Index (NSA, 2018=100) 
+Qatar: Oil Rig Count (BHGE) 
+Monetary and Financial Sector 
+Qatar: M1: Currency in Circulation 
+Qatar: 3 Months Deposit Rate 
+Qatari Banks: Liabilities to Qatar Central Bank 
+Qatar Stock Exchange: Shares Traded in Real Estate 
+External Sector 
+Qatar: Export Oil Price to China 
+Qatar: Imports of Motor Vehicle from Japan 
+Qatar: Exports to Japan (JPY Bn) 
+Trading Partners 
+Saudi Arabia: Imports (NSA, Mil. Riyals)

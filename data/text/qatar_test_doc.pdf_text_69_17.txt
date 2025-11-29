@@ -1,0 +1,4 @@
+The data provided to the Fund is adequate for surveillance.
+The data provided to the Fund has some shortcomings but is broadly adequate for surveillance.
+The data provided to the Fund has some shortcomings that somewhat hamper surveillance.
+The data provided to the Fund has serious shortcomings that significantly hamper surveillance.

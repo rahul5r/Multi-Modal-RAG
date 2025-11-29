@@ -1,0 +1,46 @@
++/-1 standard deviation around period average
+0
+20
+40
+60
+80
+14
+16
+18
+20
+22
+24
+up to 1 yr
+1-2 yrs
+Over 2 yrs
+BIS Reporting Bank Positions vis-a-vis Qatar
+(Percent of total, by remaining maturity, 
+all instruments)
+-20
+0
+20
+40
+05
+10
+15
+20
+Credit to GDP Gap 1/
+(Percentage point difference from HP filter-based
+trend)
+0
+10
+20
+30
+40
+Public sector
+Services
+Trade
+Real estate
+Consumption
+loans
+Contractors
+Industry
+October 2024
+2019 average
+Stock of Bank Domestic Credit by Borrower
+(Percent of total)

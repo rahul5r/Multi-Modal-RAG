@@ -1,0 +1,51 @@
+16
+18
+20
+22
+Direct inv.
+Portfolio inv.
+Other inv.
+Reserves
+Capital acct.
+Current Acccount
+Current Account Financing Components
+(Percent of GDP, inverted scale)
+0
+10
+20
+30
+40
+16
+18
+20
+22
+0
+100
+200
+300
+Percent of GDP
+Percent of short-term external debt (right)
+Central Bank International Reserves
+-1
+0
+1
+2
+3
+4
+5
+06
+08
+10
+12
+14
+16
+18
+20
+22
+24
+QAR
+SAR
+One-month Forward Dollar-cross Exchange Rate
+(Percent deviation from spot exchange rate, 
+monthly data)
+Depreciation

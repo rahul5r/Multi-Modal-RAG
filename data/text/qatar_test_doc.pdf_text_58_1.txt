@@ -1,0 +1,50 @@
+No
+4 State governments
+No
+5 Local governments
+No
+6 Public nonfinancial corporations
+No
+7 Central bank
+No
+8 Other public financial corporations
+No
+3. Instrument coverage:
+4. Accounting principles:
+5. Debt consolidation across sectors:
+Color code: █ chosen coverage     █ Missing from recommended coverage     █ Not applicable
+Comments
+Basis of recording
+Valuation of debt stock
+Not applicable
+Debt 
+securities
+Loans
+IPSGSs 3/
+Oth acct. 
+payable 2/
+Market 
+value 7/
+Nominal 
+value 5/
+Face value 
+6/
+Non-consolidated
+CPS
+NFPS
+GG: expected
+CG
+Non-cash 
+basis 4/
+Cash basis
+Consolidated
+Currency 
+& deposits
+Holder
+Issuer
+1 Budget. central govt
+0
+2 Extra-budget. funds
+0
+3 Social security funds
+0

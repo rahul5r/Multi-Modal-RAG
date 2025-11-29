@@ -1,0 +1,48 @@
+-0.339
+-0.034
+0.015
+Global conditions
+0.162
+-0.272
+0.073
+-0.013
+Prob. of missed crisis, 2024-2025 (if stress not predicted): 0.0 pct.
+Prob. of false alarm, 2024-2025 (if stress predicted): 83.1 pct.
+Commentary: Near-term risks are assessed to be low.
+Logit stress 
+probability
+Low risk
+High risk
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+2020
+2021
+2022
+2023
+Evolution of Mechanical Near-Term Signal
+Value
+Contrib 1/
+Final Fanchart (Percent of GDP)
+Debt fanchart module
+Fanchart width
+88.7
+1.3
+(percent of GDP)
+Probability of debt non-
+4.6
+0.0
+stabilization (percent)
+Terminal debt-to-GDP x
+12.1
+0.3
+institutions index
+Debt fanchart index (DFI)
+1.6
+Risk signal: 3/
+Moderate
+Gross Financing Needs (Percent of GDP)

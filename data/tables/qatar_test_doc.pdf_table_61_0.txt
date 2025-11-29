@@ -1,0 +1,15 @@
+Debt burden & buffers 0.022 | -0.339 | -0.034 | 0.015 | nan | nan | nan | nan | Logit stress
+Global conditions 0.162 | -0.272 | 0.073 | -0.013 | 0.1 | nan | nan | nan | probability
+nan | nan | nan | nan | nan | Low risk | nan | nan | nan
+b. of missed crisis, 2024-2025 (if stress not predicted): 0.0 pct. | nan | nan | nan | 0.0 | nan | nan | nan | nan
+nan | nan | nan | nan | nan | 2020 | 2021.0 | 2022 | 2023
+b. of false alarm, 2024-2025 (if stress predicted): 83.1 pct. | nan | nan | nan | nan | nan | nan | nan | nan
+mmentary: Near-term risks are assessed to be low. | nan | nan | nan | nan | nan | nan | nan | nan
+Figure IV. 8. Qatar: Medium-Term Risk Assessment | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | Value Contrib 1/ | nan | Percentile in peer group 2/ | nan
+Final Fanchart (Percent of GDP) | nan | Debt fanchart module | nan | nan | nan | nan | nan | nan
+150 5-25 pct | nan | Fanchart width | nan | nan | 88.7 | 1.3 | nan | nan
+25-50 pct | nan | (percent of GDP) | nan | nan | nan | nan | nan | nan
+50-75 pct | nan | nan | nan | nan | nan | nan | nan | nan
+100 75-95 pct | nan | Probability of debt non- | nan | nan | 4.6 | 0.0 | nan | nan
+Actual | nan | stabilization (percent) | nan | nan | nan | nan | nan | nan

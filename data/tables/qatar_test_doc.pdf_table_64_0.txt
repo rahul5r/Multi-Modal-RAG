@@ -1,0 +1,6 @@
+nan | 2040 2042
+nan | 20442043 0
+nan | 2046
+nan | 2046 2048
+nan | 2049 2050
+Long run projection | 2052 Long run projection 2052

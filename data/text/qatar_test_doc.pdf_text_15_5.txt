@@ -1,0 +1,30 @@
+from that suggested by the frontier.
+0
+3
+6
+9
+12
+BHR
+KWT
+OMN
+QAT
+SAU
+UAE
+GCC
+Selected
+EMs
+Petroleum
+Electricity
+Gas
+Text Figure 11. Estimated Domestic-Global 
+Energy Price Differentials 1/
+(Percent of GDP)
+Sources: Haver, IEA subsidies database (2022), IMF 
+subsidy database (2023), and staff calculations. 
+1/ Mainly based on the IMF subsidy database (2023), 
+which follows the price gap approach. The benchmark 
+price for calculating subsidies is based on the 
+international price for energy products that are 
+internationally traded. BHR and KWT = IEA (2022); OMN = 
+IMF team estimate. Qatar = IEA (2022) for gas, and IMF 
+(2023) for electricity and petroleum; SAU = IMF (2023)

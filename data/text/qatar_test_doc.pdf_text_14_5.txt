@@ -1,0 +1,25 @@
+(Percent of non-hydrocarbon GDP) 
+ 
+Source: IMF staff calculations. 
+1/ PIH benchmark is calculated to ensure constant real per-
+capita income. Long-term parameters: Inflation and non-
+hydrocarbon real output growth = 2 percent, population 
+growth = 0.75 percent, natural gas production volume = 
+constant after NF expansion in 2030, nominal hydrocarbon 
+price growth = 2 percent, nominal returns on QIA assets and 
+discount rate = both 4.75 percent. Standard deviation range 
+is based on historical oil price performance to capture the 
+sensitivity of the PIH estimates to oil price volatility, thus 
+enhancing robustness of the estimates.  
+10
+20
+30
+40
+50
+23
+24
+25
+26
+27
+28
+29

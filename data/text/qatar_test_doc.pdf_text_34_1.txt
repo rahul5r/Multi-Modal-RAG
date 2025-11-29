@@ -1,0 +1,91 @@
+stopped.    
+ 
+Sources: FocusEconomics, Haver Analytics, and IMF staff calculations. 
+1/ Deflated by survey-based 12 month-ahead inflation expectations. 
+0
+2
+4
+6
+8
+14
+16
+18
+20
+22
+24
+Repo
+Lending
+Deposit
+US Fed funds
+Qatari and US Policy Rates
+(Percent)
+0
+25
+50
+75
+100
+14
+16
+18
+20
+22
+24
+Qatari Policy Deposit Rate Spread to US Fed Funds
+(Basis point)
+-4
+0
+4
+8
+12
+21
+22
+23
+24
+BHR
+OMN
+QAT
+SAU
+Nontradables Inflation
+(Percent)
+-4
+0
+4
+8
+12
+21
+22
+23
+24
+BHR
+OMN
+QAT
+SAU
+Tradables Inflation
+(Percent)
+-10
+0
+10
+20
+30
+14
+16
+18
+20
+22
+24
+Money Supply
+(Percent, year on year)
+-6
+-3
+0
+3
+6
+OMN
+BHR
+QAT
+SAU
+UAE
+KWT
+Real Policy Interest Rates 1/
+(Percent)
++/- one standard deviation around historical

@@ -1,0 +1,82 @@
+16.0
+14.2
+15.3
+14.8
+9.7
+6.3
+8.0
+…
+Government external debt (%GDP)
+19.5
+24.6
+35.1
+43.5
+33.6
+23.7
+23.0
+…
+Interest payments (%total revenue)
+5.0
+4.7
+5.1
+7.1
+6.0
+3.9
+4.4
+…
+External liquidity indicators 
+Central bank net reserves (US$bn)
+14.5
+30.1
+39.4
+40.6
+40.8
+46.1
+50.2
+53.8
+In months of imports in following year
+2.7
+5.4
+8.0
+8.0
+6.6
+7.7
+8.1
+…
+Commercial banks net foreign assets (US$bn)
+-35.0
+-54.6
+-82.0
+-110.5
+-127.8
+-109.0
+-105.8
+-112.5
+o/w: Foreign assets (US$bn)
+64.4
+65.7
+66.0
+63.9
+69.1
+74.7
+74.9
+75.9
+o/w: Foreign liabilities (US$bn)
+99.4
+120.3
+147.9
+174.5
+197.0
+183.7
+180.7
+188.3
+Hydrocarbon exports (%total exports)
+84.5
+86.4
+86.2
+91.5
+86.1
+87.9
+86.5
+…
+Banking sector indicators

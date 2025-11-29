@@ -1,0 +1,79 @@
+Sources: Bloomberg, Haver Analytics, IMF WEO, and IMF staff calculations. 
+ 
+ 
+90
+100
+110
+120
+130
+16
+18
+20
+22
+24
+NEER
+REER
+Effective Exchange Rates
+(2014-15 average = 100, "+" = appreciation)
+0
+500
+1000
+1500
+0
+100
+200
+300
+16
+18
+20
+22
+24
+Natural gas (Henry Hub)
+Oil
+Natural gas (right, Dutch TTF)
+Oil and Natural Gas Price Indices
+(2010-12 = 100)
+-40
+0
+40
+80
+16
+18
+20
+22
+Trade Balance
+Services
+Income
+Current Transfers
+Current account
+Current Account Components
+(Percent of GDP)
+-80
+-40
+0
+40
+16
+18
+20
+22
+Direct inv.
+Portfolio inv.
+Other inv.
+Reserves
+Capital acct.
+Current Acccount
+Current Account Financing Components
+(Percent of GDP, inverted scale)
+0
+10
+20
+30
+40
+16
+18
+20
+22
+0
+100
+200
+300

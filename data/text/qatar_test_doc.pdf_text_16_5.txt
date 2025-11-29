@@ -1,0 +1,17 @@
+0
+5
+10
+15
+20
+"Fuel" exporting
+EMDE
+Qatar
+GCC ex Qatar
+Percent of GDP
+Percent of non-hydrocarbon GDP
+Text Figure 12. Wage Bills 1/
+(Percent of total GDP or non-hydrocarbon GDP, 2023)
+Sources: IMF World Economic Outlook and staff calculations. 
+1/ Emerging markets and developing economies (EMDE) whose 
+main source of export earnings are fuel products per WEO 
+classification.

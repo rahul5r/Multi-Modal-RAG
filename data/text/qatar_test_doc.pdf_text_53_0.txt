@@ -1,0 +1,14 @@
+QATAR 
+50 
+INTERNATIONAL MONETARY FUND 
+which variables have the most significant impact on the model's predictions. By identifying the 
+key drivers, we can refine and iterate on the model to improve accuracy and reliability over time. 
+Figure III. 2. Qatar: Project Overview 
+Source: IMF staff. 
+ 
+3. 
+A few innovations have been introduced to Qatar’s nowcasting framework to optimize 
+the variable and model selections:  
+• 
+A big data approach in variable selection is developed to enhance the coverage of potential 
+predictors of economic growth and reduces the lag between real-world events and nowcasts.

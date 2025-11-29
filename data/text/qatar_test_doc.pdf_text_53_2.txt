@@ -1,0 +1,7 @@
+Specifically, a Stata program is developed to scrape the Haver and CEIC databases, identifying 
+relevant keywords in millions of data series. The keywords target data specific to Qatar and its 
+key trading partners. The program chooses 1,300 Qatar-specific series and 1,200 series related 
+to Qatar’s trading partners for further selection. For the 2,500 variables, pairwise correlations are 
+run against Qatar’s non-hydrocarbon GDP. Those with the highest correlations (both positive 
+and negative) are kept. Judgement based on economic theories and knowledge of the Qatari 
+economy is then applied to ensure balanced sectoral coverage, narrowing the final pool to

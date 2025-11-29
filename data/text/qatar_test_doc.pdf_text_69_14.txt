@@ -1,0 +1,50 @@
+External Sector 
+Statistics
+Monetary and 
+Financial 
+Statistics
+Inter-sectoral 
+Consistency 
+Median Rating
+B
+B
+B
+C
+B
+B
+B
+Coverage
+B
+B
+B
+C
+B
+B
+B
+C
+A
+B
+B
+Consistency
+B
+B
+B
+Frequency and Timeliness
+B
+A
+B
+A
+A
+A
+B
+C
+D
+Data Quality Characteristics
+Granularity 3/
+Data Adequacy Assessment Rating 1/
+B
+Questionnaire Results 2/
+Assessment
+Detailed Questionnaire Results
+Note: When the questionnaire does not include a question on a specific dimension of data quality for a sector, the corresponding cell is blank.
+1/ The overall data adequacy assessment is based on staff's assessment of the adequacy of the country’s data for conducting analysis and formulating policy advice, and takes into consideration

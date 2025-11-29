@@ -1,0 +1,29 @@
+Sources: Haver and IMF staff.
+1/ Estimated potential minus actual in 2019 or latest. 
+Non-hydrocarbon tax revenue and non-hydrocarbon 
+GDP for hydrocarbon producing countries. Stochastic 
+Frontier Analysis was applied to a panel of 146 countries 
+for 2000–19. Macroeconomic determinants of tax 
+potential include economic performance, trade 
+openness, capital mobility, economic diversification, and 
+institutions. As an important caveat, the efficient amount 
+of tax revenue to GDP a country can raise could differ 
+from that suggested by the frontier.
+0
+3
+6
+9
+12
+BHR
+KWT
+OMN
+QAT
+SAU
+UAE
+GCC
+Selected
+EMs
+Petroleum
+Electricity
+Gas
+Text Figure 11. Estimated Domestic-Global

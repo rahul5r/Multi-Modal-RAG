@@ -1,0 +1,11 @@
+GDP growth prediction. An average RMSE of 
+1.4 across the best models indicates Qatar’s 
+nowcasting framework performs comparably 
+to those for regional peers (see Korniyenko et 
+al, 2023). Figure 5 shows the overall fit of the 
+model up to 2023Q4 and the nowcasting 
+results up to 2024Q3, which point to a 
+gradual recovery from the post-World Cup 
+growth trough. Table 1 provides a list of variables used in the final Qatar model. Nine of the 
+variables are Qatar-specific, covering the real sector (e.g., inflation and oil activities), external sector 
+(e.g., export oil price to China), and financial sector (e.g., 3-month deposit rate and credit facilities).

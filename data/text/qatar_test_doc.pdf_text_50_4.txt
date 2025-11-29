@@ -1,0 +1,37 @@
+investments abroad (11 percent of GDP). In contrast, net other investment outflows declined by 
+16 percentage points to 1 percent of GDP. Overseas investment declined and net reduction in liabilities 
+mostly by commercial banks following the introduction of QCB measures, moderated. In 2024Q2, net 
+portfolio outflows abated while net incurrence of other investment liabilities resumed. 
+0
+30
+60
+90
+120
+-20
+-10
+0
+10
+20
+30
+18
+20
+22
+24
+26
+28
+30
+CA (% of GDP)
+Oil prices (right, US$ per barrel)
+Current Account Balace and Oil Prices
+CA model
+REER model
+CA-Actual
+17.1
+  Cyclical contributions (from model) (-)
+0.9
+  Natural disasters and conflicts (-)
+-1.1
+Adjusted CA
+17.3
+CA Norm (from model)
+15.4

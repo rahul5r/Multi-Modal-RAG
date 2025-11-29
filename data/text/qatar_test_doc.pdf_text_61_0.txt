@@ -1,0 +1,54 @@
+QATAR 
+58 
+INTERNATIONAL MONETARY FUND 
+Figure IV. 7. Qatar: Near-Term Risk Analysis 
+ 
+Figure IV. 8. Qatar: Medium-Term Risk Assessment 
+Year of data
+2020
+2021
+2022
+2023
+To predict stress in [t+1, t+2]
+2021-22
+2022-23
+2023-24
+2024-25
+Logit stress probability (LSP)
+0.535
+0.260
+0.040
+0.008
+Change in LSP
+0.369
+-0.275
+-0.220
+-0.032
+due to:
+Institutional quality
+-0.035
+-0.026
+-0.003
+0.000
+Stress history
+0.000
+0.000
+0.000
+0.000
+Cyclical position
+0.236
+0.354
+-0.241
+-0.031
+Debt burden & buffers
+0.022
+-0.339
+-0.034
+0.015
+Global conditions
+0.162
+-0.272
+0.073
+-0.013
+Prob. of missed crisis, 2024-2025 (if stress not predicted): 0.0 pct.
+Prob. of false alarm, 2024-2025 (if stress predicted): 83.1 pct.

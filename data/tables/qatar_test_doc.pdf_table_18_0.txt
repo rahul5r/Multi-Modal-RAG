@@ -1,0 +1,9 @@
+Box 1. Figure 1. Growth Impact of Central Government Capital Spending 1/
+(12-year rolling coefficient and one standard deviation plus or minus the estimate)
+Capital Spending, First Lag Capital Spending, Second Lag
+0.6 0.6
+0.4 0.4
+0.2 0.2
+0 0
+-0.2 -0.2
+-0.4 -0.4

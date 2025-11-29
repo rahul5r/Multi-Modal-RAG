@@ -1,0 +1,2 @@
+nan | Qatar | nan | nan
+300.0 | World | 1.0 | nan

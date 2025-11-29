@@ -1,0 +1,51 @@
+optimistic and in line with historical behavior.
+Optimistic
+Pessimistic
+Emerging Markets,  Commodity Exporter,  
+Surveillance
+2/ Calculated as the percentile rank of the country's output gap revisions (defined as the difference between real time/period ahead estimates. 
+4/ The Laubach (2009) rule is a linear rule assuming bond spreads increase by about 4 bps in response to a 1 ppt increase in the projected debt-to-
+GDP ratio.
+-2
+-1
+0
+1
+2
+3
+-6
+-3
+0
+3
+6
+9
+2019 2020 2021 2022 2023 2024 2025 2026
+Fiscal Adjustment (rhs)
+Baseline
+Multiplier=0.5
+Multiplier=1
+In percentage points of GDP
+In percent
+0
+2
+4
+6
+8
+10
+12
+-28
+-24
+-20
+-16
+-12
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+28
+Distribution 3/
+3-year reduction

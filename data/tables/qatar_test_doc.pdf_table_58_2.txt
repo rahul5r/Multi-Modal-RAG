@@ -1,0 +1,12 @@
+HolderBudget.Extra-SocialNonfin.CentralOth. pub.centralbudget.securityState govt.Local govt.Issuerpub. corp.bankfin corpgovtfundsfunds | Total | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | 1.0 | Budget. central govt | nan | nan | 0.0
+nan | nan | nan | nan | 2.0 | Extra-budget. funds | nan | nan | 0.0
+nan | nan | nan | nan | 3.0 | Social security funds | nan | nan | 0.0
+nan | nan | nan | nan | 4.0 | State govt. | nan | nan | 0.0
+nan | nan | nan | nan | 5.0 | Local govt. | nan | nan | 0.0
+nan | nan | nan | nan | 6.0 | Nonfin pub. corp. | nan | nan | 0.0
+nan | nan | nan | nan | 7.0 | Central bank | nan | nan | 0.0
+nan | nan | nan | nan | 8.0 | Oth. pub. fin. corp | nan | 0.0 | nan
+nan | Total00000000 | 0.0 | nan | nan | nan | nan | nan | nan
+1/ CG=Central government; GG=General government; NFPS=Nonfinancial public sector; PS=Public sector.2/ Stock of arrears could be used as a proxy in the absence of accrual data on other accounts payable.3/ Insurance, Pension, and Standardized Guarantee Schemes, typically including government employee pension liabilities.4/ Includes accrual recording, commitment basis, due for payment, etc.5/ Nominal value at any moment in time is the amount the debtor owes to the creditor. It reflects the value of the instrument at creation and subsequenteconomic flows (such as transactions, exchange rate, and other valuation changes other than market price changes, and other volume changes).6/ The face value of a debt instrument is the undiscounted amount of principal to be paid at (or before) maturity.7/ Market value of debt instruments is the value as if they were acquired in market transactions on the balance sheet reporting date (reference date). Onlytraded debt securities have observed market values. | nan | nan | nan | nan | nan | nan | nan | nan
+Commentary: The fiscal data cover the central government. Staff continues to encourage the authorities that the coverage be expanded to include the broader publicsector and the QIA. | nan | nan | nan | nan | nan | nan | nan | nan

@@ -1,0 +1,13 @@
+QATAR 
+52 
+INTERNATIONAL MONETARY FUND 
+Figure III. 5. Qatar: Non-hydrocarbon GDP Growth: Actual and Nowcasting Results 1/ 
+(Percent, year on year) 
+Sources: Haver, CEIC and IMF staff calculations. 
+1/ Nowcasting up to Q3 2024. 
+5. 
+While a useful tool, the ML-based nowcasting framework comes with caveats. ML 
+models are primarily focused on identifying statistical patterns in the dataset. The variable and 
+model selections aim to maximize predictive power, and the results (including contributions from 
+variables) should not be interpreted in the same way as in regression analysis, which is usually based 
+on economic theories.

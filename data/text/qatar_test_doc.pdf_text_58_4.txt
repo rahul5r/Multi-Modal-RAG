@@ -1,0 +1,6 @@
+5/ Nominal value at any moment in time is the amount the debtor owes to the creditor. It reflects the value of the instrument at creation and subsequent 
+economic flows (such as transactions, exchange rate, and other valuation changes other than market price changes, and other volume changes). 
+6/ The face value of a debt instrument is the undiscounted amount of principal to be paid at (or before) maturity. 
+7/ Market value of debt instruments is the value as if they were acquired in market transactions on the balance sheet reporting date (reference date). Only 
+traded debt securities have observed market values.
+NFPS

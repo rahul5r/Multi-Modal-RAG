@@ -1,0 +1,11 @@
+to avoid overfitting – a situation where the model is too "tailored" to the training data and fails 
+to generalize to other situations, leading to inaccurate predictions. 
+ 
+• 
+Select nowcasting models. The selected time series data are processed through advanced 
+machine learning algorithms (see below). A variety of models, including Support Vector 
+Machines (SVMs), Random Forests, and Elastic Net, are trained by historical data. Each model's 
+performance is evaluated using a range of metrics (e.g., out-of-sample root-mean-squared error 
+(RMSE)), and the best-performing models are selected for further analysis. 
+ 
+•

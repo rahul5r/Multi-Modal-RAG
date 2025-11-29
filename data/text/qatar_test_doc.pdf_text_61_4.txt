@@ -1,0 +1,13 @@
+4/ The signal is low risk if the GFI is below 7.6; high risk if the DFI is above 17.9; and otherwise, it is moderate risk.
+5/ The signal is low risk if the GFI is below 0.26; high risk if the DFI is above 0.40; and otherwise, it is moderate risk.
+1/ See Annex IV of IMF, 2022, Staff Guidance Note on the Sovereign Risk and Debt Sustainability Framework for details on index calculation.
+0.2
+Low
+Moderate
+Commentary: Medium-term risks are assessed as low, consistent with the mechanical "low" signal. Gross financing needs under the stress scenario are 
+small. Large net financial assets held by the sovereign wealth fund mitigate risks.
+Source: IMF staff estimates and projections.
+0.4
+0.5
+0.2
+0.1

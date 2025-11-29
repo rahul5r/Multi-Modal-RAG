@@ -1,0 +1,30 @@
+operators
+Services and sales 
+workers
+Technicians
+Clerks
+Managers
+Skilled agricultural 
+workers
+-0.2
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+-0.2
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+Exposure
+Complementarity
+2023
+2014
+AI Exposure and Complemetarity by Occupation, 2023
+(Higher value = higher exposure/complementarity)

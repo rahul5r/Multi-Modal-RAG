@@ -1,0 +1,3 @@
+nan | Income | Current Transfers | nan | Other inv. | Reserves
+nan | Current account | nan | nan | Capital acct. | Current Accc
+40.0 | nan | nan | -40.0 | nan | nan

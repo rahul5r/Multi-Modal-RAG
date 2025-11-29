@@ -1,0 +1,20 @@
+NFPS | nan | Comments | nan | nan | nan | nan | nan
+1. Debt coverage in the DSA: 1/ | nan | CG | GG | NFPS | CPS | Other | nan
+1a. If central government, are non-central government entities insignificant? | No | nan | nan | nan | nan | nan | nan
+2. Subsectors included in the chosen coverage in (1) above: | nan | nan | nan | nan | nan | nan | nan
+Subsectors captured in the baselineInclusion | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | 1 | Budgetary central government | Yes | nan
+nan | nan | nan | nan | 23 | Extra budgetary funds (EBFs)Social security funds (SSFs) | No | Not applicable
+nan | nan | nan | nan | nan | No | nan | nan
+nan | nan | nan | nan | 45 | State governmentsLocal governments | No | nan
+nan | nan | nan | nan | nan | No | nan | nan
+nan | nan | nan | nan | 6 | Public nonfinancial corporations | No | nan
+nan | nan | nan | 78 | Central bankOther public financial corporations | No | nan | nan
+nan | nan | nan | nan | No | nan | nan | nan
+3. Instrument coverage: | Currency& deposits | Loans | Debtsecurities | Oth acct.payable 2/ | IPSGSs 3/ | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+4. Accounting principles: | Basis of recording | Valuation of debt stock | nan | nan | nan | nan | nan
+nan | Non-cashbasis 4/ | Cash basis | Nominalvalue 5/ | Face value6/ | Marketvalue 7/ | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+5. Debt consolidation across sectors: | nan | Consolidated | Non-consolidated | nan | nan | nan | nan
+Color code: ? chosen coverage     ? Missing from recommended coverage     ? Not applicable | nan | nan | nan | nan | nan | nan | nan

@@ -1,0 +1,11 @@
+QATAR 
+INTERNATIONAL MONETARY FUND 
+49 
+Annex III. Nowcasting of Non-hydrocarbon GDP Growth in Qatar 
+This Annex applies nowcasting, which has been widely used for near-term growth projections, to 
+Qatar’s real non-hydrocarbon output growth, with several innovations. Results fit historical data well 
+and point to a gradual recovery from the post-World Cup growth trough. A few caveats related to the 
+machine-learning approach for nowcasting are also discussed.  
+1. 
+Nowcasting generates real-time forecasts for key economic indicators where the 
+official data may be unavailable or delayed by analyzing high-frequency macroeconomic

@@ -1,0 +1,5 @@
+2 Both market-based and officially determined, including discount rates, money market rates, rates on treasury bills, notes and bonds. 
+3 Foreign, domestic bank, and domestic nonbank financing. 
+4 The general government consists of the central government (budgetary funds, extra budgetary funds, and social security funds) and state and local governments. 
+5 Including currency and maturity composition. 
+6 Frequency and timeliness: (“D”) daily; (“W”) weekly or with a lag of no more than one week after the reference date; (“M”) monthly or with lag of no more than one month after the reference date; (“Q”) quarterly or with lag of no more

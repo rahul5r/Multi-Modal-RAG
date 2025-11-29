@@ -1,0 +1,45 @@
+4.6
+0.0
+stabilization (percent)
+Terminal debt-to-GDP x
+12.1
+0.3
+institutions index
+Debt fanchart index (DFI)
+1.6
+Risk signal: 3/
+Moderate
+Gross Financing Needs (Percent of GDP)
+Gross financing needs (GFN) module
+Average baseline GFN
+-1.7
+-0.6
+(percent of GDP)
+Initial Banks' claims on the 
+15.5
+5.0
+gen. govt (pct bank assets)
+Chg. In banks' claims in
+1.5
+0.5
+stress (pct banks' assets)
+GFN financeability index (GFI)
+5.0
+Risk signal: 4/
+Low
+Banking crisis
+Commodity prices
+Exchange rate
+Contingent liab.
+Natural disaster
+Medium-Term Index (Index Number)
+Medium-term risk analysis
+Value
+Weight
+Contribution
+Debt fanchart index 
+1.6
+GFN finaceability index 
+5.0
+Medium-term index
+Risk signal: 5/

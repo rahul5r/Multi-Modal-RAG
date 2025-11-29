@@ -1,0 +1,27 @@
+2The ARA is a composite metric that measures the adequacy of precautionary reserves. It is based on the relative risk weights 
+for each source of foreign exchange drain drawing on the 10th percentile of observed outflows from emerging market 
+economies during exchange market pressure episodes. Reserves in the range of 100–150 percent of the composite metric 
+are considered broadly adequate for precautionary purposes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+20
+40
+60
+80
+100
+12
+14
+16
+18
+20
+22
+Central Bank Foreign Reserves
+(Percent of IMF ARA metric)

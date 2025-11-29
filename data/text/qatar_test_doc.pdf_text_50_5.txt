@@ -1,0 +1,41 @@
+CA model
+REER model
+CA-Actual
+17.1
+  Cyclical contributions (from model) (-)
+0.9
+  Natural disasters and conflicts (-)
+-1.1
+Adjusted CA
+17.3
+CA Norm (from model)
+15.4
+CA Gap
+2.0
+-4.7
+  o/w Relative policy gap
+2.0
+Elasticity
+-0.3
+REER Gap (in percent)
+-5.6
+13.6
+1/ Based on the EBA-lite 3.0 methodology.
+(in percent of GDP)
+Qatar: EBA-lite Model Results, 2023 1/
+100
+110
+120
+130
+140
+150
+16
+18
+20
+22
+24
+NEER, Qatar
+REER, Qatar
+NEER, US
+Effective Exchange Rates
+(2010 average = 100)

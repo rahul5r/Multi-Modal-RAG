@@ -1,0 +1,6 @@
+Year of data | 2020 2021 2022 2023 0.6
+nan | Evolution of Mechanical Near-Term Signal
+To predict stress in [t+1, t+2] | 2021-22 2022-23 2023-24 2024-25
+Logit stress probability (LSP) | 0.535 0.260 0.040 0.008 0.5
+Change in LSP | 0.369 -0.275 -0.220 -0.032
+due to: | 0.4

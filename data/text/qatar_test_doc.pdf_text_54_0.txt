@@ -1,0 +1,18 @@
+QATAR 
+INTERNATIONAL MONETARY FUND 
+51 
+Figure III. 3. Qatar: Machine Learning Process for Qatar 
+Source: IMF staff calculations. 
+4. 
+Qatar’s nowcasting results, which fit historical data well, point to a gradual recovery 
+from the post-World Cup growth 
+normalization. Various nowcasting models 
+are compared based on their out-of-sample 
+forecast performances (Figure 4). 
+The Support Vector Machine (RBF) model, 
+with the lowest RMSE, proves to be the most 
+effective one for Qatar’s non-hydrocarbon 
+GDP growth prediction. An average RMSE of 
+1.4 across the best models indicates Qatar’s 
+nowcasting framework performs comparably 
+to those for regional peers (see Korniyenko et

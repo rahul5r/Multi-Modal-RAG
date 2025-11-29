@@ -1,0 +1,35 @@
+nan | -10.0 | nan | nan | nan | nan | nan | <1 yr term
+Exch. rate | nan | nan | nan | nan | 28 | 2 | nan
+depreciation | -20.0 | nan | -20 | nan | nan | nan | nan
+Residual | nan | nan | In percentage points of GDP | nan | nan | nan | Spread vs 10-yr
+nan | -30.0 | nan | -40 | -5% | nan | 0 | US Treas.
+Change in public | nan | Past 5 | Next 5 | nan | nan | nan | Implied spread,
+sector debt | nan | years | years | nan | nan | nan | Laubach rule 4/
+3-Year Debt Reduction | nan | nan | nan | 3-Year A-7d.5justment in Cyclically-Adjusted | nan | nan | nan
+nan | nan | nan | nan | nan | -6.5 | nan | 5y hist
+(Percent of GDP) | nan | nan | nan | Primary- 5B.5alance (Percent of GDP) | nan | nan | 2024
+12 | nan | nan | nan | nan | nan | nan | nan
+Distribution 3/ | nan | percentile rank | 75.3 | 12 | Distribution 3/ -4.5 | nan | 2025percentile rank 79
+10 3-year reduction | nan | 3-year debt reduction | nan | 10 | 3--y3.ea5r adjustment | 3-year adjustment above 75th | 2026
+8 Max. 3-year reduction | nan | above 75th percentile | nan | 8 | Ma2x..5 3-year adjustment - | percentile (2 ppts of GDP) | 2027
+nan | nan | nan | (5.9 ppts of GDP) | nan | nan | nan | 2028
+6 | nan | nan | nan | 6 | -1.5 | nan | nan
+nan | nan | nan | nan | nan | -0.5 | nan | 2029
+4 | nan | nan | nan | 4 | 0.5 | nan | nan
+2 | nan | nan | nan | 2 | 1.5 | nan | nan
+0 | nan | nan | nan | 0 | 2.5 | nan | nan
+nan | nan | nan | nan | nan | 3.5 | nan | nan
+nan | nan | nan | nan | nan | 4.5 | nan | nan
+Fiscal Adjustment and Possible NH-Growth Paths | nan | nan | nan | Overal5l .5Real GDP Growth | nan | nan | nan
+(Lines, real growth using multiplier (LHS); bars, fiscal adj. (RHS)) | nan | nan | nan | (In perc6en.5t) | nan | nan | nan
+9 | nan | nan | 3 | 10 | 7.5 | nan | nan
+Fiscal Adjustment (rhs) | nan | nan | nan | nan | nan | Baseline real growth (lhs) | 30
+nan | nan | nan | nan | nan | nan | Baseline real potential growth (lhs) | nan
+6 Baseline | nan | nan | 2 | nan | nan | 10-yr avg. real growth (lhs) | nan
+Multiplier=0.5 | nan | nan | nan | 5 | nan | nan | 15
+3 Multiplier=1 | nan | nan | 1 | nan | nan | nan | nan
+0 | nan | nan | 0 | nan | nan | nan | nan
+nan | nan | nan | nan | 0 | nan | nan | 0
+-3 | nan | nan | -1 | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | Output gap (rhs) | nan
+-6 | nan | nan | -2 | -5 | nan | nan | -15

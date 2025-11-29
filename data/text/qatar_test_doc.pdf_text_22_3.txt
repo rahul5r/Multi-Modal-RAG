@@ -1,0 +1,78 @@
+Sources: Fitch, Haver, and IMF staff calculations. 
+1/ Bank level estiamtes are interest income on all loans in percent of sum of stage 1 and stage 2 loans. 
+0
+3
+6
+9
+18
+19
+20
+21
+22
+23
+Aggregate and Bank-level Lending Rates 1/
+(Percent)
+Bank-level min-max range
+Aggregate bank lending rate index 
+(less than 3 yrs)
+Policy lending rate
+-1
+0
+1
+2
+3
+06
+08
+10
+12
+14
+16
+18
+20
+22
+24
+Bank Deposit to Policy Rate Spread
+(Percentage point)
+-2
+0
+2
+4
+6
+-30
+0
+30
+60
+90
+120
+150
+06
+08
+10
+12
+14
+16
+18
+20
+22
+24
+Oil prices (U$/barrel, inverted)
+Bank deposit to policy deposit rate spread
+(right)
+Oil Prices and Bank-Policy Deposit Rate Spread
+0
+2
+4
+6
+8
+06
+08
+10
+12
+14
+16
+18
+20
+22
+24
+Spread (ppt)
+Lending rate

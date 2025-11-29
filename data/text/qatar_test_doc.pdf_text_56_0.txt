@@ -1,0 +1,15 @@
+QATAR 
+INTERNATIONAL MONETARY FUND 
+53 
+ 
+References 
+ 
+Alkhareif, Ryadh M., and William A. Barnett. "Nowcasting Real GDP for Saudi Arabia." Open 
+Economies Review 33.2 (2022): 333-345.  
+Akbal, Faruk, at al. “Panel nowcasting for countries whose quarterly GDPs are unavailable.” IMF 
+Working Paper, 23/158. 4 Aug. 2023, 
+www.imf.org/en/Publications/WP/Issues/2023/08/03/Panel-Nowcasting-for-Countries-
+Whose-Quarterly-GDPs-are-Unavailable-534455.  
+Barhoumi, Karim, et al. “Overcoming Data Sparsity: A Machine Learning Approach to Track the Real-
+Time Impact of COVID-19 in Sub-Saharan Africa.” IMF, 6 May 2022, 
+www.imf.org/en/Publications/WP/Issues/2022/05/07/Sub-Saharan-Africa-Economic-Activity-

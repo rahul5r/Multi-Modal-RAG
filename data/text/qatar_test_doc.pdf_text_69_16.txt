@@ -1,0 +1,6 @@
+Framework for Data Adequacy Assessment for Surveillance, January 2024, Appendix I).
+3/ The top cell for "Granularity" of Government Finance Statistics shows staff's assessment of the granularity of the reported government operations data, while the bottom cell shows that of public 
+debt statistics. The top cell for "Granularity" of Monetary and Financial Statistics shows staff's assessment of the granularity of the reported Monetary and Financial Statistics data, while the bottom 
+cell shows that of the Financial Soundness indicators.
+The data provided to the Fund is adequate for surveillance.
+The data provided to the Fund has some shortcomings but is broadly adequate for surveillance.

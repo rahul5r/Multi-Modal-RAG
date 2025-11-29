@@ -1,0 +1,9 @@
+below: 
+• 
+Select predictive variables. A wide range of economic and financial indicators are selected to 
+capture domestic, regional and global conditions that could affect Qatar’s non-hydrocarbon 
+economy. These variables are chosen based on criteria such as predictive power (i.e., suggested 
+by the pairwise correlation between the predictive variable and Qatar’s non-hydrocarbon GDP), 
+data availability, and minimal lag time. A balance is maintained between the number of 
+predictors and the size of the training data (used to fit nowcasting models with historical trends) 
+to avoid overfitting – a situation where the model is too "tailored" to the training data and fails

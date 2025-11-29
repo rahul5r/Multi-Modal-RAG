@@ -1,0 +1,8 @@
+• 
+A big data approach in variable selection is developed to enhance the coverage of potential 
+predictors of economic growth and reduces the lag between real-world events and nowcasts. 
+Unlike traditional methods that select variables based on specific economic theories, this 
+approach collects a large number of variables including those that are unconventional in 
+economic analysis, and evaluates their correlations with Qatar’s non-hydrocarbon GDP. 
+Specifically, a Stata program is developed to scrape the Haver and CEIC databases, identifying 
+relevant keywords in millions of data series. The keywords target data specific to Qatar and its

@@ -1,0 +1,9 @@
+and negative) are kept. Judgement based on economic theories and knowledge of the Qatari 
+economy is then applied to ensure balanced sectoral coverage, narrowing the final pool to 
+13 variables. Further refinements of variable selection can be done by conducting Shapley 
+decomposition of nowcasting results to identify contributions from different predicative 
+variables and iterate with alternative variables.  
+• 
+Machine learning (ML) models are applied to handle large and complex datasets. Unlike 
+traditional methods such as statistical models and surveys, ML models allow for better 
+integration of complex, non-linear relationships between economic variables that ARIMA models

@@ -1,0 +1,7 @@
+regression suggest that for the GCC, the average long-run fiscal multiplier for capital expenditure (0.7) is 
+stronger and more persistent than that for current expenditure (statistically insignificant), although the 
+growth gains from the former emerge with a lag. The Qatar-specific long-term cumulative multiplier for 
+capital expenditure (based on the GCC panel regression and a country dummy for Qatar) is close to 1.5. 
+When capital stock is relatively high, however, the capital spending multipliers for both Qatar and the GCC 
+become insignificant. 
+A further analysis confirms how growth gains from capital spending in Qatar waned when the

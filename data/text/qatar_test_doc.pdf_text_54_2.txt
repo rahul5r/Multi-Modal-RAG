@@ -1,0 +1,7 @@
+(e.g., export oil price to China), and financial sector (e.g., 3-month deposit rate and credit facilities).  
+The remaining 4 series capture economic activities in Qatar’s key trading partners.  
+ 
+ 
+Figure III. 4. Qatar: Model Selection 
+(Out of sample performance) 
+Source: IMF staff calculations.

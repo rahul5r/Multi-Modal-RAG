@@ -1,0 +1,14 @@
+abundant and published timely, as in the case of 
+Qatar. Nowcasting models are also highly 
+adaptable—they can be updated regularly with 
+new data, ensuring that the estimates remain 
+relevant and accurate amidst changing 
+economic conditions. 
+ 
+2. 
+A nowcasting model for Qatar’s non-hydrocarbon economy is developed, based on 
+previous IMF work (Barhoumi, Karim, et al. 2022, Akbal, Faruk, et al. 2023), following the steps 
+below: 
+• 
+Select predictive variables. A wide range of economic and financial indicators are selected to 
+capture domestic, regional and global conditions that could affect Qatar’s non-hydrocarbon

@@ -1,0 +1,8 @@
+performance is evaluated using a range of metrics (e.g., out-of-sample root-mean-squared error 
+(RMSE)), and the best-performing models are selected for further analysis. 
+ 
+• 
+Identify contributions of predictive variables. Shapley decomposition is applied to break 
+down the contribution of each variable to the nowcast results. This method allows us to pinpoint 
+Figure III.1. Qatar: Nowcasting Concept 
+Source: IMF staff calculations.

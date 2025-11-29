@@ -1,0 +1,13 @@
+1. 
+Nowcasting generates real-time forecasts for key economic indicators where the 
+official data may be unavailable or delayed by analyzing high-frequency macroeconomic 
+indicators. For example, Qatar publishes GDP data with a lag of around 2-3 quarters, while policy 
+makers and businesses may need a more timely 
+assessment of the economy to inform policy and 
+business decisions—nowcasting is an effective 
+tool to fill the gap. This technique is particularly 
+suitable where high-frequency indicators are 
+abundant and published timely, as in the case of 
+Qatar. Nowcasting models are also highly 
+adaptable—they can be updated regularly with 
+new data, ensuring that the estimates remain

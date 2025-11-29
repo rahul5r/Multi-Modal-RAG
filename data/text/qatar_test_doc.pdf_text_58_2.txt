@@ -1,0 +1,62 @@
+6/
+Non-consolidated
+CPS
+NFPS
+GG: expected
+CG
+Non-cash 
+basis 4/
+Cash basis
+Consolidated
+Currency 
+& deposits
+Holder
+Issuer
+1 Budget. central govt
+0
+2 Extra-budget. funds
+0
+3 Social security funds
+0
+4 State govt.
+0
+5 Local govt.
+0
+6 Nonfin pub. corp.
+0
+7 Central bank
+0
+8 Oth. pub. fin. corp
+0
+Total
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Nonfin. 
+pub. corp.
+GG: expected
+State govt. Local govt.
+CG
+CPS
+Commentary: The fiscal data cover the central government. Staff continues to encourage the authorities that the coverage be expanded to include the broader public 
+sector and the QIA. 
+Total
+Central 
+bank
+Oth. pub. 
+fin corp
+Budget. 
+central 
+govt
+Extra-
+budget. 
+funds 
+Social 
+security 
+funds

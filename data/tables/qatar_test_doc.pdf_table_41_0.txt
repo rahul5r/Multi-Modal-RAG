@@ -1,0 +1,35 @@
+nan | (Percent of GDP unless otherwise noted) | nan | nan
+nan | Projections | nan | nan
+nan | 2020 2021 2022 2023 2024 2025 2026 2027 | 2028.0 | 2029.0
+Revenue | 32.6 29.6 34.7 32.8 26.2 28.7 30.2 28.9 | 28.2 | 28.5
+Oil | 6.1 8.4 6.7 5.0 4.1 3.7 3.4 3.1 | 3.0 | 3.0
+LNG | 6.8 8.9 13.7 11.4 9.9 13.5 14.5 13.9 | 13.3 | 13.7
+Investment income from public enterprises 1/ | 12.5 6.5 8.6 9.7 6.8 6.2 6.3 5.9 | 5.7 | 5.7
+Corporate tax revenue 1/ | 4.5 3.2 3.3 4.5 3.5 3.4 4.1 4.1 | 4.4 | 4.4
+Other revenue 1/ | 2.7 2.5 2.5 2.2 2.0 2.0 1.9 1.8 | 1.8 | 1.7
+Expenditure | 34.7 29.4 24.3 27.3 25.9 26.2 25.5 24.1 | 23.9 | 23.9
+Expense | 22.0 18.3 15.6 17.5 17.2 17.5 17.1 16.3 | 16.1 | 16.2
+Compensation of employees | 11.0 9.0 7.3 8.4 8.5 8.8 8.7 8.5 | 8.5 | 8.7
+Goods and services | 3.4 2.9 2.3 2.7 2.7 2.8 2.7 2.5 | 2.5 | 2.5
+Interest payments | 2.3 1.8 1.4 1.4 1.3 1.2 1.2 1.1 | 1.1 | 1.1
+Other expense | 5.3 4.7 4.5 5.0 4.7 4.7 4.5 4.1 | 4.0 | 3.9
+Net acquisition of nonfinancial assets | 12.7 11.1 8.8 9.7 8.7 8.7 8.4 7.9 | 7.8 | 7.7
+Gross operating balance | 10.5 11.3 19.2 15.3 9.0 11.2 13.1 12.6 | 12.1 | 12.3
+Net lending (+)/borrowing (-) | -2.1 0.2 10.4 5.6 0.3 2.5 4.7 4.7 | 4.4 | 4.6
+Financing | nan | nan | nan
+Domestic financing (net) | -0.6 0.2 -2.7 0.4 1.6 0.4 0.6 0.5 | 0.5 | 0.5
+Bank loans | 0.6 0.8 -3.1 -1.3 1.3 0.0 0.0 0.0 | 0.0 | 0.0
+Domestic securities | -1.1 3.0 1.5 0.4 0.3 0.4 0.6 0.5 | 0.5 | 0.5
+Domestic deposits | -0.1 -3.6 -1.1 1.3 0.0 0.0 0.0 0.0 | 0.0 | 0.0
+Foreign borrowing | 0.6 -1.4 -2.0 -3.2 -1.0 -0.5 0.5 0.5 | 0.5 | 0.4
+Otheyr 2/ | 2.1 1.0 -5.8 -2.8 -0.9 -2.4 -5.8 -5.7 | -5.3 | -5.6
+Non-hydrocarbon primary fiscal balance 3/ | -35.4 -34.6 -31.9 -33.5 -32.7 -32.2 -30.9 -30.2 | -29.7 | -29.3
+Memorandum items: | nan | nan | nan
+Total debt | 72.6 58.4 42.6 43.7 40.5 39.6 38.3 36.3 | 35.8 | 35.7
+External debt | 43.5 33.6 23.7 23.0 20.9 20.0 19.3 18.3 | 18.0 | 17.9
+Domestic debt | 29.1 24.8 18.9 20.7 19.6 19.6 19.0 18.0 | 17.8 | 17.8
+Total net debt | 58.3 43.3 30.0 31.0 28.4 27.8 27.2 26.1 | 25.9 | 26.2
+o/w  net domestic debt 4/ | 14.8 9.7 6.3 8.0 7.5 7.8 7.9 7.8 | 8.0 | 8.3
+Primary fiscal balance | 0.2 2.0 11.7 7.0 1.6 3.7 5.9 5.8 | 5.4 | 5.7
+Total hydrocarbon revenue 5/ | 24.9 23.9 29.5 27.3 21.6 24.4 25.7 24.8 | 24.2 | 24.6
+Non-hydrocarbon tax revenues 3/ | 2.7 1.9 1.9 1.9 1.9 1.9 2.7 2.7 | 2.8 | 2.8
